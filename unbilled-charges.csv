@@ -1,0 +1,8 @@
+invoice_date,charge_type,name,charge,rate,usage,cost
+2026-ноябрь,Services,FreedomChat,Free,$0.0000/hr,1.66,$0.00
+2026-ноябрь,Services,FreedomChat,Outgoing Bandwidth,—,0 GB,—
+2026-ноябрь,Services,FreedomChat,Private Link,—,0 GB,—
+2026-ноябрь,Services,FreedomChat-1,Free,$0.0000/hr,1.62,$0.00
+2026-ноябрь,Services,FreedomChat-1,Outgoing Bandwidth,—,0 GB,—
+2026-ноябрь,Services,FreedomChat-1,Private Link,—,0 GB,—
+2026-ноябрь,Pipeline Minutes,Build: Starter,Starter,"$5/1,000 minutes",0 minutes,$0.00
